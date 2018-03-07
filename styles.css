@@ -2,10 +2,19 @@ body {
     background-color: #afb3ff;
 }
 h1 {
-    color: white;
+    color: black;
     padding: 6px 2px 0px 7px;
 }
 p {
     font-family: verdana;
     font-size: 20px;
+}
+.nav-link
+{
+  color:black;
+}
+.navbar-nav
+{
+  padding-top:6px;
+  font-size: 30px;
 }
